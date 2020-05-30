@@ -1,0 +1,18 @@
+{
+  "bundler": "rollup",
+  "shimport": "1.0.1",
+  "assets": {
+    "main": "client.573c3c62.js"
+  },
+  "css": {
+    "main": "main.1791351580.css",
+    "chunks": {
+      "index.svelte": [],
+      "projects/index.svelte": [],
+      "projects/project1/index.svelte": [],
+      "about.svelte": [],
+      "blog/index.svelte": [],
+      "blog/multivariate-introduction/index.svelte": []
+    }
+  }
+}
