@@ -13,9 +13,9 @@
 <h1>VAST Challenge 2019 - Disaster in St. Himark!</h1>
 
 <p>
-  The VAST Challenge (Visual Analytics Science and Technology Challenge) is a   
-  annual data analysis challenge. The VAST Challenge 2019 was hosted at    IEEE
-  VIS conference in Vancouver.
+  The VAST Challenge (Visual Analytics Science and Technology Challenge) is an
+  annual data analysis challenge. The VAST Challenge 2019 was hosted at IEEE VIS
+  conference in Vancouver.
 </p>
 
 <p>
@@ -51,7 +51,7 @@
 </p>
 
 <p>
-  The submission accompanied a video, in which I describe each view and the   
+  The submission accompanied a video, in which I describe each view and the
   interconnected interactions.
 </p>
 
