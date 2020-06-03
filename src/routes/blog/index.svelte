@@ -4,8 +4,8 @@
     {
       title: "An Introduction to Multivariate Data Analysis",
       subtitle: "What is it used for, and some techniques at your disposal",
-      ref: "multivariate-introduction",
-      thumb: "placeholder.png"
+      ref: "./blog/multivariate-introduction",
+      thumb: "blog/multivariate-data-analysis/multivariate-cover.jpeg"
     }
   ];
 </script>
