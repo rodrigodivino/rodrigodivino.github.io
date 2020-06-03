@@ -11,7 +11,7 @@
       title: "Edge Bundling in Parallel Coordinates",
       subtitle: "Novel Data Visualization Technique",
       ref: "./projects/parallel-bundling",
-      thumb: "placeholder.png"
+      thumb: "parallel-bundling-prints/bundled.png"
     }
   ];
 </script>
