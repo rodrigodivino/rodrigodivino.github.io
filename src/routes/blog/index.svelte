@@ -1,22 +1,25 @@
 <script>
-	import Card from "../../components/Card.svelte"
-	const posts = [{
-        title: "An Introduction to Multivariate Data Analysis",
-        subtitle: "What is it used for, and some techniques at your disposal",
-        file: "multivariate-introduction",
-        thumb: "placeholder.png"
-    }]
+  import Card from "../../components/Card.svelte";
+  const posts = [
+    {
+      title: "An Introduction to Multivariate Data Analysis",
+      subtitle: "What is it used for, and some techniques at your disposal",
+      ref: "multivariate-introduction",
+      thumb: "placeholder.png"
+    }
+  ];
 </script>
 
 <style>
-	
+
 </style>
 
 <svelte:head>
-	<title>Blog</title>
+  <title>Blog</title>
 </svelte:head>
 
-
-{#each posts as {title, subtitle, file, thumb}}
-	<Card {title} {subtitle} {file} {thumb}></Card>
+{#each posts as { title, subtitle, ref, thumb }}
+  <a href={ref}>
+    <Card {title} {subtitle} {thumb} />
+  </a>
 {/each}

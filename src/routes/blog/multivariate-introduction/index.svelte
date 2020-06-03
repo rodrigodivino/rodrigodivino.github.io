@@ -2,5 +2,4 @@
 
 </script>
 
-
-<h1> Blog 1</h1>
+<h1>Blog 1</h1>
