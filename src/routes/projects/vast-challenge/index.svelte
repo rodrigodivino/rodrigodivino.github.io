@@ -13,25 +13,24 @@
 <h1>VAST Challenge 2019 - Disaster in St. Himark!</h1>
 
 <p>
-  O VAST Challenge (Visual Analytics Science and Technology Challenge) é um
-  desafio anual de análise de dados. O VAST Challenge 2019 foi hospedado na
-  conferência IEEE VIS, em Vancouver.
+  The VAST Challenge (Visual Analytics Science and Technology Challenge) is a   
+  annual data analysis challenge. The VAST Challenge 2019 was hosted at    IEEE
+  VIS conference in Vancouver.
 </p>
 
 <p>
-  Em 2019, o desafio foi ajudar uma cidade fictícia a entrentar um terremoto. Os
-  habitantes possuem aplicativos no qual podem reportar o nível de destruição, e
-  os
-  <i>decision makers</i>
-  da cidade querem analisar esses dados em tempo real para direcionar os
-  esforços de socorro, mesmo em face da incerteza dos dados.
+  In 2019, the challenge was to help a fictional city cope with an earthquake.
+  The inhabitants have applications in which they can report the level of
+  destruction, and the decision makers of the city want to analyze this data in
+  real time to direct efforts to the right plaes, even in the face of uncertain
+  data
 </p>
 
 <p>
-  Minha solução para esse desafio foi premiada com o título
+  My solution to this challenge was awarded the title   
   <b>"Award for Supporting Situation Awareness and Anomaly Detection"</b>
-  (Prêmio por apoiar a conscientização da situação e a detecção de anomalias). A
-  submissão consiste em um dashboard customizado para o acompanhamento dos dados
+  The submission consists of a customized dashboard for monitoring the data in
+  real time:
 </p>
 
 <div width="100%">
@@ -40,22 +39,20 @@
       width="100%"
       src="vast-challenge-prints/main_screen.PNG"
       alt="A tela principal da submissão para o VAST Challenge 2019" />
-    <figcaption>
-      A tela principal do dashboard que soluciona o VAST Challenge 2019
-    </figcaption>
+    <figcaption>The main view of the VAST Challenge 2019 dashboard</figcaption>
   </figure>
 
 </div>
 
 <p>
-  O Dashboard contém quatro visões conectadas por interações. É possível filtrar
-  os dados pelo tempo, ou pelas medidas, e com essas interações é possível
-  responder as perguntas críticas que a situação exige.
+  The Dashboard contains four views connected by interactions. It is possible to
+  filter data over time or by measurements, which allows analysts to answer the
+  critical questions that the situation requires.
 </p>
 
 <p>
-  A submissão acompanhou um vídeo, no qual descrevo cada visualização e as
-  interações interligadas
+  The submission accompanied a video, in which I describe each view and the   
+  interconnected interactions.
 </p>
 
 <iframe
@@ -68,8 +65,8 @@
   allowfullscreen />
 
 <p>
-  Em Vancouver, além da apresentação oral, um poster foi posicionado no hall da
-  conferência:
+  In Vancouver, in addition to the oral presentation, a poster was placed in the
+  hall of the conference:
 </p>
 
 <div width="100%">
@@ -80,7 +77,8 @@
       alt="Poster da submissão para o VAST Challenge 2019" />
   </figure>
 </div>
-Mais detalhes sobre o projeto estão na publicação da submissão, disponível em
+More details about the project can be found in the publication of the
+submission, available at
 <a href="https://ieeexplore.ieee.org/abstract/document/8986919/">
   https://ieeexplore.ieee.org/abstract/document/8986919/
 </a>
