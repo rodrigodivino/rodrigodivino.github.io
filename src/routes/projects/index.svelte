@@ -12,6 +12,12 @@
       subtitle: "Novel Data Visualization Technique",
       ref: "./projects/parallel-bundling",
       thumb: "parallel-bundling-prints/bundled.png"
+    },
+    {
+      title: "A Battle of Media!",
+      subtitle: "Visualizing The Rise and Fall Of Music Media Formats",
+      ref: "https://rodrigodivino.github.io/MM21-music-industry-sales/",
+      thumb: "vizzes/a-battle-of-media.png"
     }
   ];
 </script>
